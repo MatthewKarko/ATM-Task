@@ -1,24 +1,12 @@
 # Assignment Name
 
-SOFT2412 Group project Assignment 1 – Tools for Agile Software Development (2021)
+Assignment 1 – Tools for Agile Software Development (2021)
 
 ## Project Name
 
 Development of an Automated Teller Machine (ATM) software for XYZ Bank
 
-## Group Members
-
- - Imran Issa
- - Matthew Karko
- - Alexander Marrapese
- - William Qiu
- - Raymond Ton
-
-
 # Description
-
-Use Git or check-out with SVN using this URL:
-[ATM for XYZ Bank](https://github.sydney.edu.au/SOFT2412-2021S2/Assignment__1.git)
 
 The code is written in Java, spread across three files:
  - ATM.java
@@ -83,4 +71,4 @@ If there are errors, please raise the issue immediately with the development tea
 
 Pull requests are welcome. However, pushing any commits must be first discussed with the group members. This is a private project, thus it is required to raise any concerns and/or opportunities with the team regarding the application. Once you have been granted approval for changes, be sure to update test cases appropriately.
 
-Distribution of this project is strictly prohibited.
+Distribution and use of this project is strictly prohibited.
